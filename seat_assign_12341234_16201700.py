@@ -18,6 +18,7 @@ class Booking:
         for neighbour in max_consec_seats:
             consec+=seats[neighbour-1]
         return consec
+    
     def reject(conn, c, num_pass):
         query = "UPDATE metrics SET passengers_refused = passengers_refused + ? ;"
         c.execute(query, str(num_pass))
