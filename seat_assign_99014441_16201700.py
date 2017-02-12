@@ -1,10 +1,6 @@
-@authors: Niall Daly and Ying Wang
-
-# -*- coding: utf-8 -*-
 """
-Created on Sun Jan 22 15:50:32 2017
-
-@authors: Niall and Tracy
+# -*- coding: utf-8 -*-
+@authors: Niall Daly and Ying Wang
 """
 
 def get_avail_seats(c, row_num):
