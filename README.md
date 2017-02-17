@@ -1,5 +1,5 @@
 # ARL-Programming-Assignment
-Created by Niall Daly and Ying Wang
+Created by Niall Daly (github id rumcannonball) and Ying Wang (github id tracyyingyingwang)
 
 A program that 
 - reads bookings from a CSV file
